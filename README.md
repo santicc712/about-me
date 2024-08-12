@@ -5,6 +5,10 @@
 Я готов учиться новому и работать над улучшением своих навыков.
 - ---
  ## > [Резюме](https://drive.google.com/file/d/12HgtaVZMZ0cHyq11mzgVw2ELDE5BFwKB/view?usp=sharing)
+ ## > Examples
+1. [Test case](https://github.com/santicc712/test-cases-examples?tab=readme-ov-file)
+2. [Bug report](https://github.com/santicc712/bug-report-examples)
+3. [Cheklist](https://github.com/santicc712/checklist-examples) 
  ## > Tools 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>

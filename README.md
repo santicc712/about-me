@@ -5,7 +5,7 @@
 Я готов учиться новому и работать над улучшением своих навыков.
 - ---
  ## > [Резюме](https://drive.google.com/file/d/12HgtaVZMZ0cHyq11mzgVw2ELDE5BFwKB/view?usp=sharing)
- ## > [Сертификат](https://drive.google.com/drive/folders/1FJdlSM-DbRA-pbsGRu_9Jv8BBQqrHmYZ?usp=sharing)
+ ## > [Сертификат](https://drive.google.com/file/d/1vn7FB9PpgZffrC678pBQWWuxbwDfy9P-/view?usp=sharing)
  ## > Examples
 1. [Test case](https://github.com/santicc712/test-cases-examples?tab=readme-ov-file)
 2. [Bug report](https://github.com/santicc712/bug-report-examples)
